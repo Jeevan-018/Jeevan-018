@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 I'm JEEVAN G.<br>🔭 I’m currently pursuing MASTER OF COMPUTER APPLICATION [MCA].<br>👯 I’m looking to collaborate on full-stack projects, coding competitions.<br>🌱 I’m currently learning web development.<br>💬 Ask me about Web Technologies.<br>📫 How to reach me<br>⚡ Fun fact I'm still Student.<br>
+😎 I'm JEEVAN G.<br>🔭 I’m currently pursuing MASTER OF COMPUTER APPLICATION [MCA].<br>👯 I’m looking to collaborate on full-stack projects, coding competitions.<br>🌱 I’m currently learning web development.<br>💬 Ask me about Web Technologies.<br>⚡ Fun fact I'm still Student.<br>
 
 
 ## 🌐 Socials:
